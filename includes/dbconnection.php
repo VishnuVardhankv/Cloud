@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','trmsserver.mysql.database.azure.com');
+define('DB_USER','trmsadmin');
+define('DB_PASS','cloud@123');
 define('DB_NAME','trms');
 // Establish database connection.
 try
