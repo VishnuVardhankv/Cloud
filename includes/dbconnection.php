@@ -3,7 +3,7 @@
 define('DB_HOST','trmsserver.mysql.database.azure.com');
 define('DB_USER','trmsadmin');
 define('DB_PASS','cloud@123');
-define('DB_NAME','trms');
+define('DB_NAME','trmsdatabase');
 // Establish database connection.
 try
 {
